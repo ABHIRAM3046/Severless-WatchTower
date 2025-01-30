@@ -1,0 +1,13 @@
+{
+    "source": [
+        "aws.elasticloadbalancing"
+    ],
+    "detail-type": [
+        "ELB Target Health Change"
+    ],
+    "detail": {
+        "state": [
+            "unhealthy"
+        ]
+    }
+}
