@@ -1,5 +1,5 @@
 # Serverless Watch Tower
-![/Architecture/serverless_watch_tower.jpg]()
+![Architecture/serverless_watch_tower.jpg]()
 ## Overview
 
 This project provides a robust auto-healing solution for cloud infrastructure using AWS services like Lambda, EventBridge, and IAM Policies. It ensures high availability and resilience for critical components:
